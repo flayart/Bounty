@@ -1,4 +1,16 @@
 package org.flayart.bounty;
 
-public class Bounty {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class Bounty extends JavaPlugin {
+    
+    @Override
+    public void onEnable() {
+    
+    }
+    
+    @Override
+    public void onDisable() {
+    
+    }
 }
